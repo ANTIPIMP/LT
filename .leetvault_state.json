@@ -1,8 +1,8 @@
 {
   "stats": {
-    "total": 64,
+    "total": 65,
     "easy": 27,
-    "medium": 26,
+    "medium": 27,
     "hard": 11,
     "languages": [
       "Bash",
@@ -4130,6 +4130,40 @@
         }
       ],
       "url": "https://leetcode.com/problems/strictly-palindromic-number/"
+    },
+    {
+      "title": "Construct Uniform Parity Array II",
+      "slug": "construct-uniform-parity-array-ii",
+      "qid": "4258",
+      "files": [
+        {
+          "filename": "solution.cpp",
+          "language": "cpp",
+          "code": "class Solution {\npublic:\n    bool uniformArray(vector<int>& nums1) {\n        int mn = nums1[0];\n        bool hasOdd = false;\n        for (int v : nums1) {\n            if (v < mn) {\n                mn = v;\n            }\n            if (v & 1) {\n                hasOdd = true;\n            }\n        }\n        if (mn & 1) {\n            return true;\n        }\n        return !hasOdd;\n    }\n};",
+          "runtime": "4 ms",
+          "memory": "165.9 MB",
+          "status": "Accepted",
+          "timestamp": 1789557383,
+          "note": "",
+          "id": 2143584801
+        }
+      ],
+      "questionId": "4258",
+      "url": "https://leetcode.com/problems/construct-uniform-parity-array-ii/",
+      "difficulty": "Medium",
+      "tags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ],
+      "likes": 396,
+      "dislikes": 33,
+      "paidOnly": false
     }
   ]
 }

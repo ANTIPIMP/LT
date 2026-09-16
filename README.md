@@ -2,9 +2,9 @@
 
 > Automatically synchronized using **LeetVault**
 
-[![Problems](https://img.shields.io/badge/Problems-64-blue)]()
+[![Problems](https://img.shields.io/badge/Problems-65-blue)]()
 [![Easy](https://img.shields.io/badge/Easy-27-success)]()
-[![Medium](https://img.shields.io/badge/Medium-26-orange)]()
+[![Medium](https://img.shields.io/badge/Medium-27-orange)]()
 [![Hard](https://img.shields.io/badge/Hard-11-red)]()
 [![Languages](https://img.shields.io/badge/Languages-25-blueviolet)]()
 
@@ -14,9 +14,9 @@
 
 | Metric | Count |
 |---------|------:|
-| Problems Solved | 64 |
+| Problems Solved | 65 |
 | Easy | 27 |
-| Medium | 26 |
+| Medium | 27 |
 | Hard | 11 |
 | Languages | Bash, C, C#, C++, Dart, Elixir, Erlang, Go, Java, JavaScript, Kotlin, MS SQL Server, MySQL, Oracle SQL, PHP, PostgreSQL, Python, Python3, Racket, Ruby, Rust, Scala, Swift, TypeScript, pythondata |
 | Last Sync | 16 Sep 2026 |
@@ -41,7 +41,7 @@
 
 ---
 
-## Array (21)
+## Array (22)
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
@@ -66,6 +66,7 @@
 | 0787 | Sliding Puzzle | 🔴 Hard | [View](./0787-sliding-puzzle/) |
 | 0828 | Chalkboard XOR Game | 🔴 Hard | [View](./0828-chalkboard-xor-game/) |
 | 1627 | Last Moment Before All Ants Fall Out of a Plank | 🟡 Medium | [View](./1627-last-moment-before-all-ants-fall-out-of-a-plank/) |
+| 4258 | Construct Uniform Parity Array II | 🟡 Medium | [View](./4258-construct-uniform-parity-array-ii/) |
 
 ---
 
@@ -371,7 +372,7 @@
 
 ---
 
-## Math (34)
+## Math (35)
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
@@ -409,6 +410,7 @@
 | 1086 | Divisor Game | 🟢 Easy | [View](./1086-divisor-game/) |
 | 1362 | Airplane Seat Assignment Probability | 🟡 Medium | [View](./1362-airplane-seat-assignment-probability/) |
 | 2481 | Strictly Palindromic Number | 🟡 Medium | [View](./2481-strictly-palindromic-number/) |
+| 4258 | Construct Uniform Parity Array II | 🟡 Medium | [View](./4258-construct-uniform-parity-array-ii/) |
 
 ---
 
@@ -664,6 +666,7 @@
 
 | Date | Problem | Difficulty | Language |
 |------|----------|------------|----------|
+| 16 Sep 2026 | Construct Uniform Parity Array II | 🟡 Medium | C++ |
 | 16 Sep 2026 | Construct Uniform Parity Array I | 🟢 Easy | C |
 | 16 Sep 2026 | Sqrt(x) | 🟢 Easy | C++ |
 | 16 Sep 2026 | Rectangle Overlap | 🟢 Easy | Elixir |
@@ -673,7 +676,6 @@
 | 11 Aug 2026 | Number of Good Pairs | 🟢 Easy | C++ |
 | 11 Aug 2026 | Nth Digit | 🟡 Medium | C++ |
 | 11 Aug 2026 | Smallest Missing Integer Greater Than Sequential Prefix Sum | 🟢 Easy | C++ |
-| 09 Aug 2026 | Min Stack | 🟡 Medium | C++ |
 
 ---
 
