@@ -5,6 +5,7 @@
     "medium": 0,
     "hard": 0,
     "languages": [
+      "C",
       "C++"
     ],
     "lastSync": "16 Sep 2026"
@@ -25,6 +26,17 @@
           "timestamp": 1789556962,
           "note": "",
           "id": 2143580090
+        },
+        {
+          "filename": "solution.c",
+          "language": "c",
+          "code": "bool uniformArray(int* nums1, int nums1Size) {\n    return true;\n}",
+          "runtime": "2 ms",
+          "memory": "9.5 MB",
+          "status": "Accepted",
+          "timestamp": 1789557102,
+          "note": "",
+          "id": 2143581642
         }
       ],
       "questionId": "4256",

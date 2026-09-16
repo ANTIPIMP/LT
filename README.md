@@ -6,7 +6,7 @@
 [![Easy](https://img.shields.io/badge/Easy-1-success)]()
 [![Medium](https://img.shields.io/badge/Medium-0-orange)]()
 [![Hard](https://img.shields.io/badge/Hard-0-red)]()
-[![Languages](https://img.shields.io/badge/Languages-1-blueviolet)]()
+[![Languages](https://img.shields.io/badge/Languages-2-blueviolet)]()
 
 ---
 
@@ -18,7 +18,7 @@
 | Easy | 1 |
 | Medium | 0 |
 | Hard | 0 |
-| Languages | C++ |
+| Languages | C, C++ |
 | Last Sync | 16 Sep 2026 |
 
 ---
@@ -45,7 +45,7 @@
 
 | Date | Problem | Difficulty | Language |
 |------|----------|------------|----------|
-| 16 Sep 2026 | Construct Uniform Parity Array I | 🟢 Easy | C++ |
+| 16 Sep 2026 | Construct Uniform Parity Array I | 🟢 Easy | C |
 
 ---
 
