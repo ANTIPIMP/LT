@@ -2,9 +2,9 @@
 
 > Automatically synchronized using **LeetVault**
 
-[![Problems](https://img.shields.io/badge/Problems-65-blue)]()
+[![Problems](https://img.shields.io/badge/Problems-66-blue)]()
 [![Easy](https://img.shields.io/badge/Easy-27-success)]()
-[![Medium](https://img.shields.io/badge/Medium-27-orange)]()
+[![Medium](https://img.shields.io/badge/Medium-28-orange)]()
 [![Hard](https://img.shields.io/badge/Hard-11-red)]()
 [![Languages](https://img.shields.io/badge/Languages-25-blueviolet)]()
 
@@ -14,9 +14,9 @@
 
 | Metric | Count |
 |---------|------:|
-| Problems Solved | 65 |
+| Problems Solved | 66 |
 | Easy | 27 |
-| Medium | 27 |
+| Medium | 28 |
 | Hard | 11 |
 | Languages | Bash, C, C#, C++, Dart, Elixir, Erlang, Go, Java, JavaScript, Kotlin, MS SQL Server, MySQL, Oracle SQL, PHP, PostgreSQL, Python, Python3, Racket, Ruby, Rust, Scala, Swift, TypeScript, pythondata |
 | Last Sync | 16 Sep 2026 |
@@ -41,7 +41,7 @@
 
 ---
 
-## Array (22)
+## Array (23)
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
@@ -67,6 +67,7 @@
 | 0828 | Chalkboard XOR Game | 🔴 Hard | [View](./0828-chalkboard-xor-game/) |
 | 1627 | Last Moment Before All Ants Fall Out of a Plank | 🟡 Medium | [View](./1627-last-moment-before-all-ants-fall-out-of-a-plank/) |
 | 4258 | Construct Uniform Parity Array II | 🟡 Medium | [View](./4258-construct-uniform-parity-array-ii/) |
+| 0739 | Daily Temperatures | 🟡 Medium | [View](./0739-daily-temperatures/) |
 
 ---
 
@@ -448,6 +449,14 @@
 
 ---
 
+## Monotonic Stack (1)
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 0739 | Daily Temperatures | 🟡 Medium | [View](./0739-daily-temperatures/) |
+
+---
+
 ## Newton's Method (1)
 
 | # | Problem | Difficulty | Solution |
@@ -582,7 +591,7 @@
 
 ---
 
-## Stack (4)
+## Stack (5)
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
@@ -590,6 +599,7 @@
 | 0020 | Valid Parentheses | 🟢 Easy | [View](./0020-valid-parentheses/) |
 | 0227 | Basic Calculator II | 🟡 Medium | [View](./0227-basic-calculator-ii/) |
 | 0224 | Basic Calculator | 🔴 Hard | [View](./0224-basic-calculator/) |
+| 0739 | Daily Temperatures | 🟡 Medium | [View](./0739-daily-temperatures/) |
 
 ---
 
@@ -666,6 +676,7 @@
 
 | Date | Problem | Difficulty | Language |
 |------|----------|------------|----------|
+| 16 Sep 2026 | Daily Temperatures | 🟡 Medium | C++ |
 | 16 Sep 2026 | Construct Uniform Parity Array II | 🟡 Medium | C++ |
 | 16 Sep 2026 | Construct Uniform Parity Array I | 🟢 Easy | C |
 | 16 Sep 2026 | Sqrt(x) | 🟢 Easy | C++ |
@@ -675,7 +686,6 @@
 | 15 Aug 2026 | Maximum Length Substring With Two Occurrences | 🟢 Easy | C++ |
 | 11 Aug 2026 | Number of Good Pairs | 🟢 Easy | C++ |
 | 11 Aug 2026 | Nth Digit | 🟡 Medium | C++ |
-| 11 Aug 2026 | Smallest Missing Integer Greater Than Sequential Prefix Sum | 🟢 Easy | C++ |
 
 ---
 
