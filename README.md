@@ -689,16 +689,4 @@
 
 ---
 
-# ⚡ Features
-
-- Historical Import
-- Live Sync
-- Duplicate Resolution
-- Multi-language Support
-- Automatic README Generation
-- Automatic Statistics
-- Topic Classification
-
----
-
 Generated automatically using [LeetVault](https://github.com/vedant476/LeetVault).

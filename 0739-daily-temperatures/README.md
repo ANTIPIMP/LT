@@ -5,9 +5,9 @@
 | Difficulty | 🟡 Medium |
 | Language | C++ |
 | Status | ✅ Accepted |
-| Runtime | 29 ms |
-| Memory | 107.3 MB |
-| Submission ID | 2143605227 |
+| Runtime | 27 ms |
+| Memory | 107.4 MB |
+| Submission ID | 2143612397 |
 | Solved On | 16 Sep 2026 |
 
 ---
@@ -36,7 +36,7 @@ No notes provided.
 
 | Language | Runtime | Memory | File |
 |----------|---------|--------|------|
-| C++ | 29 ms | 107.3 MB | [solution.cpp](./solution.cpp) |
+| C++ | 27 ms | 107.4 MB | [solution.cpp](./solution.cpp) |
 
 ---
 Generated automatically using [LeetVault](https://github.com/vedant476/LeetVault).

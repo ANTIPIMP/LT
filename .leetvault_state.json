@@ -4189,11 +4189,11 @@
           "filename": "solution.cpp",
           "language": "cpp",
           "code": "class Solution {\npublic:\n    std::vector<int> dailyTemperatures(std::vector<int>& temps) {\n        std::vector<int> results(temps.size());\n        std::stack<int> stack;\n\n        for (int i = 0; i < temps.size(); i++) {\n            while (!stack.empty() && temps[stack.top()] < temps[i]) {\n                results[stack.top()] = i - stack.top();\n                stack.pop();\n            }\n            stack.push(i);\n        }\n\n        return results;\n    }\n};",
-          "runtime": "29 ms",
-          "memory": "107.3 MB",
+          "runtime": "27 ms",
+          "memory": "107.4 MB",
           "status": "Accepted",
-          "timestamp": 1789559211,
-          "id": 2143605227
+          "timestamp": 1789559833,
+          "id": 2143612397
         }
       ],
       "questionId": "739",
