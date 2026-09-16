@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "total": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "languages": [
+      "C++"
+    ],
+    "lastSync": "16 Sep 2026"
+  },
+  "problems": [
+    {
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "qid": "4256",
+      "files": [
+        {
+          "filename": "solution.cpp",
+          "language": "cpp",
+          "code": "class Solution {\npublic:\n    bool uniformArray(vector<int>& nums1) {\n        return true;\n    }\n};",
+          "runtime": "0 ms",
+          "memory": "30.2 MB",
+          "status": "Accepted",
+          "timestamp": 1789556962,
+          "note": "",
+          "id": 2143580090
+        }
+      ],
+      "questionId": "4256",
+      "url": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "difficulty": "Easy",
+      "tags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ],
+      "likes": 363,
+      "dislikes": 81,
+      "paidOnly": false
+    }
+  ]
+}
